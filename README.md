@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm IKER</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=iker-36&label=Profile%20views&color=0e75b6&style=flat" alt="iker-36" /> </p>
 
-<p align="center"> - 🔭 I’m currently working on [KS - SHOP] &nbsp (https://discord.gg/pe9R22Bpm6)</p>
+<p align="center"> - 🔭 Currently working on [KS - SHOP] &nbsp (https://discord.gg/pe9R22Bpm6)</p>
 
-<p align="center"> - 👯 I’m currently working with [Electrum Hosting] &nbsp (https://electrumhosting.com/)</p>
+<p align="center"> - 👯 Currently working on [Global Hosting] &nbsp (https://discord.gg/HfdswqpZFU)</p>
 
-<p align="center"> - 📫 How to reach me 𝗜𝗞𝗘𝗥#2817 | https://discord.gg/pe9R22Bpm6**</p>
+<p align="center"> - 📫 How to reach me | https://discord.gg/pe9R22Bpm6**</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
