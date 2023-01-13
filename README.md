@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=iker-36&label=Profile%20views&color=0e75b6&style=flat" alt="iker-36" /> </p>
 
-- 🔭 I’m Ceo Of [iP Development](https://discord.gg/2cFWKz8GAA)
+- 🔭 For Support [i-Support] (https://discord.gg/AbS6b7Bcd7)
 
 - 👯 I’m Ceo Of [Thz-Hosting](https://discord.gg/thz-hosting)
 
