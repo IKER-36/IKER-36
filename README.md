@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=iker-36&label=Profile%20views&color=0e75b6&style=flat" alt="iker-36" /> </p>
 
-- 👯 I’m Ceo Of [Vibes Host]([https://discord.gg/thz-hosting](https://discord.gg/dGnzUtdcAc))
+- 👯 I’m Ceo Of [Vibes Host][https://discord.gg/thz-hosting](https://discord.gg/dGnzUtdcAc)
 
 - 👨‍💻 All of my projects are available at [https://github.com/IKER-36?tab=repositories](https://github.com/IKER-36?tab=repositories)
 
